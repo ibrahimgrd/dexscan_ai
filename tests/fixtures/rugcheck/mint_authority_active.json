@@ -1,0 +1,34 @@
+{
+  "mint": "MintActiveToken111111111111111111111111111",
+  "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "score": 5200,
+  "score_normalised": 38,
+  "rugged": false,
+  "token": {
+    "mintAuthority": "DeployerWa11et1111111111111111111111111111",
+    "freezeAuthority": null
+  },
+  "transferFee": {
+    "pct": 0
+  },
+  "totalMarketLiquidity": 210000.0,
+  "totalLPProviders": 6,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 85.0,
+        "lpLockedDurationDays": 90
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Mint authority still enabled",
+      "level": "warning",
+      "score": 2000,
+      "description": "The deployer can mint additional supply at any time"
+    }
+  ],
+  "detectedAt": "2026-08-01T10:05:00.000000000Z"
+}

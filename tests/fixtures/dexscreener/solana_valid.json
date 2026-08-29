@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "solana",
+      "dexId": "raydium",
+      "url": "https://dexscreener.com/solana/examplepair111",
+      "pairAddress": "ExamplePair1111111111111111111111111111111",
+      "labels": [],
+      "baseToken": {
+        "address": "ExampleTokenSoLbase11111111111111111111111",
+        "name": "Example Token",
+        "symbol": "EXTKN"
+      },
+      "quoteToken": {
+        "address": "So11111111111111111111111111111111111111112",
+        "name": "Wrapped SOL",
+        "symbol": "SOL"
+      },
+      "priceNative": "0.00004821",
+      "priceUsd": "0.007312",
+      "liquidity": {
+        "usd": 184320.55,
+        "base": 12500000,
+        "quote": 940.2
+      },
+      "fdv": 7312000,
+      "marketCap": 5120000,
+      "volume": {
+        "m5": 1820.4,
+        "h1": 22150.9,
+        "h6": 118400.0,
+        "h24": 542300.75
+      },
+      "priceChange": {
+        "m5": 0.42,
+        "h1": -1.85,
+        "h6": 6.7,
+        "h24": 14.2
+      },
+      "txns": {
+        "h24": { "buys": 412, "sells": 298 }
+      },
+      "pairCreatedAt": 1754000000000
+    }
+  ]
+}

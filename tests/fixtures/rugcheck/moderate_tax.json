@@ -1,0 +1,35 @@
+{
+  "mint": "ModerateTaxToken111111111111111111111111111",
+  "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEHpdUEe",
+  "score": 3200,
+  "score_normalised": 24,
+  "rugged": false,
+  "token": {
+    "mintAuthority": null,
+    "freezeAuthority": null
+  },
+  "transferFee": {
+    "pct": 14.0
+  },
+  "totalMarketLiquidity": 155000.0,
+  "totalLPProviders": 5,
+  "markets": [
+    {
+      "dex": "orca",
+      "lp": {
+        "lpLockedPct": 60.0,
+        "lpLockedDurationDays": 30
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Elevated transfer fee",
+      "level": "warning",
+      "score": 1200,
+      "description": "This token charges a 14% fee on every transfer",
+      "value": "14.00%"
+    }
+  ],
+  "detectedAt": "2026-08-01T10:20:00.000000000Z"
+}

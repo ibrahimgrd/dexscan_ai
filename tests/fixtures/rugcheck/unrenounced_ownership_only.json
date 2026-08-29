@@ -1,0 +1,35 @@
+{
+  "mint": "UnrenouncedToken11111111111111111111111111",
+  "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "score": 1800,
+  "score_normalised": 15,
+  "rugged": false,
+  "token": {
+    "mintAuthority": null,
+    "freezeAuthority": null
+  },
+  "ownershipRenounced": false,
+  "transferFee": {
+    "pct": 0
+  },
+  "totalMarketLiquidity": 300000.0,
+  "totalLPProviders": 9,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 100.0,
+        "lpLockedDurationDays": 180
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Program ownership not renounced",
+      "level": "warning",
+      "score": 900,
+      "description": "The upgrade authority for this token's program has not been renounced"
+    }
+  ],
+  "detectedAt": "2026-08-01T10:25:00.000000000Z"
+}

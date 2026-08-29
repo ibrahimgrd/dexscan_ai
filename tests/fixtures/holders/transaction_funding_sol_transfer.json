@@ -1,0 +1,20 @@
+{
+  "slot": 300000100,
+  "blockTime": 1754800100,
+  "meta": {
+    "err": null,
+    "fee": 5000,
+    "preBalances": [5000000000, 0],
+    "postBalances": [4899995000, 100000000]
+  },
+  "transaction": {
+    "signatures": ["SigEarliest111111111111111111111111111111111111111111111111111111111111"],
+    "message": {
+      "accountKeys": [
+        { "pubkey": "FunderWallet111111111111111111111111111111", "signer": true, "writable": true },
+        { "pubkey": "FreshBuyerWallet11111111111111111111111111", "signer": false, "writable": true },
+        { "pubkey": "11111111111111111111111111111111111111111", "signer": false, "writable": false }
+      ]
+    }
+  }
+}

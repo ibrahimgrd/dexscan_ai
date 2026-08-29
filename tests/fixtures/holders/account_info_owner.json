@@ -1,0 +1,28 @@
+{
+  "context": { "slot": 300000005 },
+  "value": {
+    "data": {
+      "program": "spl-token",
+      "parsed": {
+        "type": "account",
+        "info": {
+          "isNative": false,
+          "mint": "SomeMintAddress111111111111111111111111111",
+          "owner": "HolderWallet1111111111111111111111111111111",
+          "state": "initialized",
+          "tokenAmount": {
+            "amount": "9000",
+            "decimals": 0,
+            "uiAmount": 9000.0,
+            "uiAmountString": "9000"
+          }
+        }
+      },
+      "space": 165
+    },
+    "executable": false,
+    "lamports": 2039280,
+    "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "rentEpoch": 361
+  }
+}

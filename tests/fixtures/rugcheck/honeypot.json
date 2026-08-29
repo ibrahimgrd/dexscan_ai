@@ -1,0 +1,45 @@
+{
+  "mint": "HoneypotToken1111111111111111111111111111111",
+  "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEHpdUEe",
+  "score": 45000,
+  "score_normalised": 97,
+  "rugged": true,
+  "token": {
+    "mintAuthority": "DeployerWa11et1111111111111111111111111111",
+    "freezeAuthority": "DeployerWa11et1111111111111111111111111111"
+  },
+  "transferFee": {
+    "pct": 99.5
+  },
+  "totalMarketLiquidity": 8000.0,
+  "totalLPProviders": 1,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 0.0,
+        "lpLockedDurationDays": null
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Extremely high transfer fee",
+      "level": "danger",
+      "score": 9500,
+      "description": "This token charges a 99.5% fee on transfer, effectively blocking selling",
+      "value": "99.50%"
+    },
+    {
+      "name": "Mint authority still enabled",
+      "level": "warning",
+      "score": 2000
+    },
+    {
+      "name": "Freeze authority still enabled",
+      "level": "danger",
+      "score": 7000
+    }
+  ],
+  "detectedAt": "2026-08-01T10:15:00.000000000Z"
+}

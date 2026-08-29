@@ -1,0 +1,17 @@
+{
+  "context": { "slot": 300000004 },
+  "value": [
+    { "address": "TokenAcctBoundary01111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary02111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary03111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary04111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary05111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary06111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary07111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary08111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary09111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary10111111111111111111111111", "amount": "30000", "decimals": 0, "uiAmount": 30000.0, "uiAmountString": "30000" },
+    { "address": "TokenAcctBoundary11111111111111111111111111", "amount": "2000",  "decimals": 0, "uiAmount": 2000.0,  "uiAmountString": "2000" },
+    { "address": "TokenAcctBoundary12111111111111111111111111", "amount": "2000",  "decimals": 0, "uiAmount": 2000.0,  "uiAmountString": "2000" }
+  ]
+}

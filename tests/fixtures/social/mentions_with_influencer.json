@@ -1,0 +1,9 @@
+{
+  "tweets": [
+    {"id":"t9","text":"Keeping an eye on $SAMPLE today","createdAt":"Wed Aug 12 14:00:00 +0000 2026","author":{"userName":"bignamecryptoguy","followers":250000,"isBlueVerified":true}},
+    {"id":"t10","text":"$SAMPLE popped up on my radar","createdAt":"Wed Aug 12 14:15:00 +0000 2026","author":{"userName":"midtier_trader","followers":15000,"isBlueVerified":false}},
+    {"id":"t11","text":"just a small mention of $SAMPLE","createdAt":"Wed Aug 12 14:30:00 +0000 2026","author":{"userName":"tiny_account","followers":40,"isBlueVerified":false}}
+  ],
+  "has_next_page": false,
+  "next_cursor": ""
+}

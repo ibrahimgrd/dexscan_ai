@@ -1,0 +1,27 @@
+{
+  "mint": "SafeToken1111111111111111111111111111111111",
+  "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "score": 120,
+  "score_normalised": 6,
+  "rugged": false,
+  "token": {
+    "mintAuthority": null,
+    "freezeAuthority": null
+  },
+  "transferFee": {
+    "pct": 0
+  },
+  "totalMarketLiquidity": 890000.0,
+  "totalLPProviders": 14,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 100.0,
+        "lpLockedDurationDays": 365
+      }
+    }
+  ],
+  "risks": [],
+  "detectedAt": "2026-08-01T10:00:00.000000000Z"
+}

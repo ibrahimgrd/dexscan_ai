@@ -1,0 +1,9 @@
+{
+  "tweets": [
+    {"id":"t1","text":"$SAMPLE is looking so bullish right now, LFG \ud83d\ude80","createdAt":"Wed Aug 12 10:00:00 +0000 2026","author":{"userName":"trader1","followers":1200,"isBlueVerified":false}},
+    {"id":"t2","text":"This is a gem, accumulating more before it moons","createdAt":"Wed Aug 12 11:00:00 +0000 2026","author":{"userName":"trader2","followers":800,"isBlueVerified":false}},
+    {"id":"t3","text":"Diamond hands only, this one is going to print. Undervalued ATH incoming","createdAt":"Wed Aug 12 12:00:00 +0000 2026","author":{"userName":"influencer1","followers":45000,"isBlueVerified":true}}
+  ],
+  "has_next_page": false,
+  "next_cursor": ""
+}

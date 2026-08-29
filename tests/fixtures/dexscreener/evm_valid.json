@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "ethereum",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/ethereum/examplepairevm1",
+      "pairAddress": "0xaaaa000000000000000000000000000000aaaa",
+      "labels": [],
+      "baseToken": {
+        "address": "0xbbbb000000000000000000000000000000bbbb",
+        "name": "Example EVM Token",
+        "symbol": "EEVM"
+      },
+      "quoteToken": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Wrapped Ether",
+        "symbol": "WETH"
+      },
+      "priceNative": "0.0000031",
+      "priceUsd": "10.42",
+      "liquidity": {
+        "usd": 980000.0,
+        "base": 45000,
+        "quote": 310.5
+      },
+      "fdv": 104200000,
+      "marketCap": 62520000,
+      "volume": {
+        "m5": 8400.0,
+        "h1": 96000.0,
+        "h6": 610000.0,
+        "h24": 2140000.0
+      },
+      "priceChange": {
+        "m5": -0.1,
+        "h1": 0.9,
+        "h6": 3.4,
+        "h24": -2.6
+      },
+      "txns": {
+        "h24": { "buys": 890, "sells": 1023 }
+      },
+      "pairCreatedAt": 1720000000000
+    }
+  ]
+}

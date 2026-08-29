@@ -1,0 +1,9 @@
+{
+  "context": { "slot": 300000000 },
+  "value": {
+    "amount": "1000000000000",
+    "decimals": 6,
+    "uiAmount": 1000000.0,
+    "uiAmountString": "1000000"
+  }
+}

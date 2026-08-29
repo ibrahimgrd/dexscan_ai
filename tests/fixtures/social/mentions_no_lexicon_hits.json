@@ -1,0 +1,8 @@
+{
+  "tweets": [
+    {"id":"t7","text":"$SAMPLE is trading at $0.0021 with 24h volume of $180k","createdAt":"Wed Aug 12 08:00:00 +0000 2026","author":{"userName":"databot1","followers":50,"isBlueVerified":false}},
+    {"id":"t8","text":"Anyone have the contract address for $SAMPLE","createdAt":"Wed Aug 12 08:30:00 +0000 2026","author":{"userName":"newuser1","followers":10,"isBlueVerified":false}}
+  ],
+  "has_next_page": false,
+  "next_cursor": ""
+}

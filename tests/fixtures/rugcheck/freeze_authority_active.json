@@ -1,0 +1,34 @@
+{
+  "mint": "FreezeActiveToken11111111111111111111111111",
+  "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "score": 9100,
+  "score_normalised": 81,
+  "rugged": false,
+  "token": {
+    "mintAuthority": null,
+    "freezeAuthority": "DeployerWa11et1111111111111111111111111111"
+  },
+  "transferFee": {
+    "pct": 0
+  },
+  "totalMarketLiquidity": 40000.0,
+  "totalLPProviders": 2,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 0.0,
+        "lpLockedDurationDays": null
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Freeze authority still enabled",
+      "level": "danger",
+      "score": 7000,
+      "description": "The deployer can freeze any wallet's ability to transfer this token"
+    }
+  ],
+  "detectedAt": "2026-08-01T10:10:00.000000000Z"
+}

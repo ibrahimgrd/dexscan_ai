@@ -1,0 +1,19 @@
+{
+  "slot": 300000200,
+  "blockTime": 1754810200,
+  "meta": {
+    "err": null,
+    "fee": 5000,
+    "preBalances": [2000000000, 500000000],
+    "postBalances": [1994995000, 505000000]
+  },
+  "transaction": {
+    "signatures": ["SigOutgoing4444444444444444444444444444444444444444444444444444444444444"],
+    "message": {
+      "accountKeys": [
+        { "pubkey": "SelfFundedWallet111111111111111111111111111", "signer": true, "writable": true },
+        { "pubkey": "SomeoneElseWallet1111111111111111111111111", "signer": false, "writable": true }
+      ]
+    }
+  }
+}

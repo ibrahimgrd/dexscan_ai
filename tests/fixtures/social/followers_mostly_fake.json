@@ -1,0 +1,16 @@
+{
+  "followers": [
+    {"type":"user","userName":"bot_follower_1","id":"3001","name":"Bot Follower 1","isBlueVerified":false,"followers":3,"following":1900,"createdAt":"Mon Aug 10 00:00:00 +0000 2026","description":"","statusesCount":1},
+    {"type":"user","userName":"bot_follower_2","id":"3002","name":"Bot Follower 2","isBlueVerified":false,"followers":1,"following":2100,"createdAt":"Mon Aug 10 00:01:00 +0000 2026","description":"","statusesCount":0},
+    {"type":"user","userName":"bot_follower_3","id":"3003","name":"Bot Follower 3","isBlueVerified":false,"followers":0,"following":1800,"createdAt":"Mon Aug 10 00:02:00 +0000 2026","description":"","statusesCount":2},
+    {"type":"user","userName":"bot_follower_4","id":"3004","name":"Bot Follower 4","isBlueVerified":false,"followers":5,"following":2000,"createdAt":"Mon Aug 10 00:03:00 +0000 2026","description":"","statusesCount":1},
+    {"type":"user","userName":"bot_follower_5","id":"3005","name":"Bot Follower 5","isBlueVerified":false,"followers":2,"following":1750,"createdAt":"Mon Aug 10 00:04:00 +0000 2026","description":"","statusesCount":0},
+    {"type":"user","userName":"bot_follower_6","id":"3006","name":"Bot Follower 6","isBlueVerified":false,"followers":4,"following":1950,"createdAt":"Mon Aug 10 00:05:00 +0000 2026","description":"","statusesCount":3},
+    {"type":"user","userName":"bot_follower_7","id":"3007","name":"Bot Follower 7","isBlueVerified":false,"followers":1,"following":2200,"createdAt":"Mon Aug 10 00:06:00 +0000 2026","description":"","statusesCount":0},
+    {"type":"user","userName":"bot_follower_8","id":"3008","name":"Bot Follower 8","isBlueVerified":false,"followers":6,"following":1600,"createdAt":"Mon Aug 10 00:07:00 +0000 2026","description":"","statusesCount":1},
+    {"type":"user","userName":"bot_follower_9","id":"3009","name":"Bot Follower 9","isBlueVerified":false,"followers":0,"following":1900,"createdAt":"Mon Aug 10 00:08:00 +0000 2026","description":"","statusesCount":0},
+    {"type":"user","userName":"real_holder_1","id":"3010","name":"Real Holder","isBlueVerified":true,"followers":900,"following":400,"createdAt":"Thu Jul 04 10:00:00 +0000 2020","description":"actual person","statusesCount":1800}
+  ],
+  "has_next_page": true,
+  "next_cursor": "cursor_fake_page2"
+}

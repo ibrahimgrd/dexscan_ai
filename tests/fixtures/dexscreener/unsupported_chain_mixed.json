@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "polygon",
+      "dexId": "quickswap",
+      "url": "https://dexscreener.com/polygon/unsupportedpair1",
+      "pairAddress": "0x9999000000000000000000000000000000p999",
+      "labels": [],
+      "baseToken": { "address": "0xdddd000000000000000000000000000000dddd", "name": "Cross Chain Token", "symbol": "XCT" },
+      "quoteToken": { "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270", "name": "Wrapped Matic", "symbol": "WMATIC" },
+      "priceNative": "0.05", "priceUsd": "0.04",
+      "liquidity": { "usd": 300000.0, "base": 7500000, "quote": 6000000.0 },
+      "fdv": 4000000, "marketCap": 2400000,
+      "volume": { "m5": 500.0, "h1": 6000.0, "h6": 30000.0, "h24": 150000.0 },
+      "priceChange": { "m5": 0.1, "h1": 0.3, "h6": 1.1, "h24": 2.9 },
+      "txns": { "h24": { "buys": 300, "sells": 250 } },
+      "pairCreatedAt": 1738000000000
+    },
+    {
+      "chainId": "ethereum",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/ethereum/unsupportedpair2",
+      "pairAddress": "0x8888000000000000000000000000000000e888",
+      "labels": [],
+      "baseToken": { "address": "0xdddd000000000000000000000000000000dddd", "name": "Cross Chain Token", "symbol": "XCT" },
+      "quoteToken": { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2", "name": "Wrapped Ether", "symbol": "WETH" },
+      "priceNative": "0.0000015", "priceUsd": "0.039",
+      "liquidity": { "usd": 60000.0, "base": 1500000, "quote": 18.0 },
+      "fdv": 3900000, "marketCap": 2340000,
+      "volume": { "m5": 200.0, "h1": 3000.0, "h6": 15000.0, "h24": 72000.0 },
+      "priceChange": { "m5": -0.1, "h1": 0.2, "h6": 0.9, "h24": 1.8 },
+      "txns": { "h24": { "buys": 150, "sells": 140 } },
+      "pairCreatedAt": 1739000000000
+    }
+  ]
+}

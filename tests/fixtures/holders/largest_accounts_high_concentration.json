@@ -1,0 +1,25 @@
+{
+  "context": { "slot": 300000002 },
+  "value": [
+    { "address": "TokenAcctConcentrated01111111111111111111111", "amount": "250000", "decimals": 0, "uiAmount": 250000.0, "uiAmountString": "250000" },
+    { "address": "TokenAcctConcentrated02111111111111111111111", "amount": "60000",  "decimals": 0, "uiAmount": 60000.0,  "uiAmountString": "60000" },
+    { "address": "TokenAcctConcentrated03111111111111111111111", "amount": "15000",  "decimals": 0, "uiAmount": 15000.0,  "uiAmountString": "15000" },
+    { "address": "TokenAcctConcentrated04111111111111111111111", "amount": "8000",   "decimals": 0, "uiAmount": 8000.0,   "uiAmountString": "8000" },
+    { "address": "TokenAcctConcentrated05111111111111111111111", "amount": "5000",   "decimals": 0, "uiAmount": 5000.0,   "uiAmountString": "5000" },
+    { "address": "TokenAcctConcentrated06111111111111111111111", "amount": "4000",   "decimals": 0, "uiAmount": 4000.0,   "uiAmountString": "4000" },
+    { "address": "TokenAcctConcentrated07111111111111111111111", "amount": "3000",   "decimals": 0, "uiAmount": 3000.0,   "uiAmountString": "3000" },
+    { "address": "TokenAcctConcentrated08111111111111111111111", "amount": "2000",   "decimals": 0, "uiAmount": 2000.0,   "uiAmountString": "2000" },
+    { "address": "TokenAcctConcentrated09111111111111111111111", "amount": "1500",   "decimals": 0, "uiAmount": 1500.0,   "uiAmountString": "1500" },
+    { "address": "TokenAcctConcentrated10111111111111111111111", "amount": "1500",   "decimals": 0, "uiAmount": 1500.0,   "uiAmountString": "1500" },
+    { "address": "TokenAcctConcentrated11111111111111111111111", "amount": "1000",   "decimals": 0, "uiAmount": 1000.0,   "uiAmountString": "1000" },
+    { "address": "TokenAcctConcentrated12111111111111111111111", "amount": "900",    "decimals": 0, "uiAmount": 900.0,    "uiAmountString": "900" },
+    { "address": "TokenAcctConcentrated13111111111111111111111", "amount": "800",    "decimals": 0, "uiAmount": 800.0,    "uiAmountString": "800" },
+    { "address": "TokenAcctConcentrated14111111111111111111111", "amount": "700",    "decimals": 0, "uiAmount": 700.0,    "uiAmountString": "700" },
+    { "address": "TokenAcctConcentrated15111111111111111111111", "amount": "600",    "decimals": 0, "uiAmount": 600.0,    "uiAmountString": "600" },
+    { "address": "TokenAcctConcentrated16111111111111111111111", "amount": "500",    "decimals": 0, "uiAmount": 500.0,    "uiAmountString": "500" },
+    { "address": "TokenAcctConcentrated17111111111111111111111", "amount": "400",    "decimals": 0, "uiAmount": 400.0,    "uiAmountString": "400" },
+    { "address": "TokenAcctConcentrated18111111111111111111111", "amount": "300",    "decimals": 0, "uiAmount": 300.0,    "uiAmountString": "300" },
+    { "address": "TokenAcctConcentrated19111111111111111111111", "amount": "200",    "decimals": 0, "uiAmount": 200.0,    "uiAmountString": "200" },
+    { "address": "TokenAcctConcentrated20111111111111111111111", "amount": "100",    "decimals": 0, "uiAmount": 100.0,    "uiAmountString": "100" }
+  ]
+}

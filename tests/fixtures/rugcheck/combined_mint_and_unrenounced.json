@@ -1,0 +1,39 @@
+{
+  "mint": "CombinedConditionsToken1111111111111111111",
+  "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "score": 6400,
+  "score_normalised": 44,
+  "rugged": false,
+  "token": {
+    "mintAuthority": "DeployerWa11et1111111111111111111111111111",
+    "freezeAuthority": null
+  },
+  "ownershipRenounced": false,
+  "transferFee": {
+    "pct": 0
+  },
+  "totalMarketLiquidity": 95000.0,
+  "totalLPProviders": 4,
+  "markets": [
+    {
+      "dex": "raydium",
+      "lp": {
+        "lpLockedPct": 50.0,
+        "lpLockedDurationDays": 14
+      }
+    }
+  ],
+  "risks": [
+    {
+      "name": "Mint authority still enabled",
+      "level": "warning",
+      "score": 2000
+    },
+    {
+      "name": "Program ownership not renounced",
+      "level": "warning",
+      "score": 900
+    }
+  ],
+  "detectedAt": "2026-08-01T10:30:00.000000000Z"
+}

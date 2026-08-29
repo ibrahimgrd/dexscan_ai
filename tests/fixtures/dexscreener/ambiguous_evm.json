@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "ethereum",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/ethereum/ambiguouseth1",
+      "pairAddress": "0x1111000000000000000000000000000000e111",
+      "labels": [],
+      "baseToken": {
+        "address": "0xdddd000000000000000000000000000000dddd",
+        "name": "Ambiguous Token",
+        "symbol": "AMBIG"
+      },
+      "quoteToken": { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2", "name": "Wrapped Ether", "symbol": "WETH" },
+      "priceNative": "0.00001", "priceUsd": "0.031",
+      "liquidity": { "usd": 50000.0, "base": 1600000, "quote": 15.8 },
+      "fdv": 3100000, "marketCap": 1850000,
+      "volume": { "m5": 300.0, "h1": 4200.0, "h6": 21000.0, "h24": 88000.0 },
+      "priceChange": { "m5": 0.2, "h1": -0.5, "h6": 1.8, "h24": 5.1 },
+      "txns": { "h24": { "buys": 210, "sells": 190 } },
+      "pairCreatedAt": 1730000000000
+    },
+    {
+      "chainId": "base",
+      "dexId": "aerodrome",
+      "url": "https://dexscreener.com/base/ambiguousbase1",
+      "pairAddress": "0x2222000000000000000000000000000000b222",
+      "labels": [],
+      "baseToken": {
+        "address": "0xdddd000000000000000000000000000000dddd",
+        "name": "Ambiguous Token",
+        "symbol": "AMBIG"
+      },
+      "quoteToken": { "address": "0x4200000000000000000000000000000000006", "name": "Wrapped Ether", "symbol": "WETH" },
+      "priceNative": "0.0000098", "priceUsd": "0.0295",
+      "liquidity": { "usd": 120000.0, "base": 4000000, "quote": 39.5 },
+      "fdv": 2950000, "marketCap": 1770000,
+      "volume": { "m5": 900.0, "h1": 11000.0, "h6": 58000.0, "h24": 244000.0 },
+      "priceChange": { "m5": 1.0, "h1": 2.1, "h6": 4.4, "h24": 9.7 },
+      "txns": { "h24": { "buys": 560, "sells": 401 } },
+      "pairCreatedAt": 1745000000000
+    },
+    {
+      "chainId": "base",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/base/ambiguousbase2",
+      "pairAddress": "0x3333000000000000000000000000000000b333",
+      "labels": [],
+      "baseToken": {
+        "address": "0xdddd000000000000000000000000000000dddd",
+        "name": "Ambiguous Token",
+        "symbol": "AMBIG"
+      },
+      "quoteToken": { "address": "0x4200000000000000000000000000000000006", "name": "Wrapped Ether", "symbol": "WETH" },
+      "priceNative": "0.0000097", "priceUsd": "0.0291",
+      "liquidity": { "usd": 80000.0, "base": 2750000, "quote": 27.1 },
+      "fdv": 2910000, "marketCap": 1746000,
+      "volume": { "m5": 400.0, "h1": 5200.0, "h6": 26000.0, "h24": 97000.0 },
+      "priceChange": { "m5": 0.8, "h1": 1.9, "h6": 3.9, "h24": 8.8 },
+      "txns": { "h24": { "buys": 240, "sells": 205 } },
+      "pairCreatedAt": 1746500000000
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tweets": [
+    {"id":"t4","text":"$SAMPLE looking like a total rug, avoid this scam","createdAt":"Wed Aug 12 09:00:00 +0000 2026","author":{"userName":"skeptic1","followers":300,"isBlueVerified":false}},
+    {"id":"t5","text":"Dumping my bags, this is dead, ngmi","createdAt":"Wed Aug 12 10:30:00 +0000 2026","author":{"userName":"skeptic2","followers":150,"isBlueVerified":false}},
+    {"id":"t6","text":"Classic honeypot pattern, paper hands getting rekt already","createdAt":"Wed Aug 12 13:00:00 +0000 2026","author":{"userName":"skeptic3","followers":2000,"isBlueVerified":false}}
+  ],
+  "has_next_page": false,
+  "next_cursor": ""
+}

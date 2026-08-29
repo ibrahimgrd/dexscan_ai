@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "solana",
+      "dexId": "raydium",
+      "url": "https://dexscreener.com/solana/zerofdvpair",
+      "pairAddress": "ZeroFdvPair1111111111111111111111111111111",
+      "labels": [],
+      "baseToken": {
+        "address": "ZeroFdvToken111111111111111111111111111111",
+        "name": "Zero FDV Token",
+        "symbol": "ZFDV"
+      },
+      "quoteToken": {
+        "address": "So11111111111111111111111111111111111111112",
+        "name": "Wrapped SOL",
+        "symbol": "SOL"
+      },
+      "priceNative": "0.0", "priceUsd": "0.0",
+      "liquidity": { "usd": 0.0, "base": 0, "quote": 0.0 },
+      "fdv": 0,
+      "marketCap": 0,
+      "volume": { "m5": 0.0, "h1": 0.0, "h6": 0.0, "h24": 0.0 },
+      "priceChange": { "m5": 0.0, "h1": 0.0, "h6": 0.0, "h24": 0.0 },
+      "txns": { "h24": { "buys": 0, "sells": 0 } },
+      "pairCreatedAt": 1755500000000
+    }
+  ]
+}

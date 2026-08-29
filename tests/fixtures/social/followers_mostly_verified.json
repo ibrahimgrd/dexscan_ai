@@ -1,0 +1,16 @@
+{
+  "followers": [
+    {"type":"user","userName":"verified_1","id":"2001","name":"Verified One","isBlueVerified":true,"followers":5200,"following":300,"createdAt":"Fri Jun 10 12:00:00 +0000 2016","description":"crypto researcher","statusesCount":9000},
+    {"type":"user","userName":"verified_2","id":"2002","name":"Verified Two","isBlueVerified":true,"followers":3100,"following":450,"createdAt":"Sat Feb 02 08:00:00 +0000 2019","description":"on-chain analyst","statusesCount":6100},
+    {"type":"user","userName":"verified_3","id":"2003","name":"Verified Three","isBlueVerified":true,"followers":12000,"following":900,"createdAt":"Mon Nov 11 09:00:00 +0000 2015","description":"builder","statusesCount":14200},
+    {"type":"user","userName":"verified_4","id":"2004","name":"Verified Four","isBlueVerified":true,"followers":800,"following":200,"createdAt":"Thu Jul 04 10:00:00 +0000 2020","description":"trader","statusesCount":2100},
+    {"type":"user","userName":"verified_5","id":"2005","name":"Verified Five","isBlueVerified":true,"followers":45000,"following":1200,"createdAt":"Wed Mar 03 11:00:00 +0000 2014","description":"journalist","statusesCount":22000},
+    {"type":"user","userName":"verified_6","id":"2006","name":"Verified Six","isBlueVerified":true,"followers":600,"following":180,"createdAt":"Sun Sep 09 07:00:00 +0000 2021","description":"collector","statusesCount":900},
+    {"type":"user","userName":"verified_7","id":"2007","name":"Verified Seven","isBlueVerified":true,"followers":9800,"following":700,"createdAt":"Tue May 05 06:00:00 +0000 2017","description":"dev","statusesCount":8300},
+    {"type":"user","userName":"unverified_1","id":"2008","name":"Unverified One","isBlueVerified":false,"followers":120,"following":900,"createdAt":"Tue Jan 21 03:00:00 +0000 2025","description":"","statusesCount":40},
+    {"type":"user","userName":"unverified_2","id":"2009","name":"Unverified Two","isBlueVerified":false,"followers":85,"following":1100,"createdAt":"Wed Jan 22 04:00:00 +0000 2025","description":"","statusesCount":12},
+    {"type":"user","userName":"unverified_3","id":"2010","name":"Unverified Three","isBlueVerified":false,"followers":40,"following":800,"createdAt":"Thu Jan 23 05:00:00 +0000 2025","description":"","statusesCount":5}
+  ],
+  "has_next_page": true,
+  "next_cursor": "cursor_elite_page2"
+}

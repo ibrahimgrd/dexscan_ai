@@ -1,0 +1,25 @@
+{
+  "context": { "slot": 300000003 },
+  "value": [
+    { "address": "TokenAcctWhale01111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale02111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale03111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale04111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale05111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale06111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale07111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale08111111111111111111111111111", "amount": "25000", "decimals": 0, "uiAmount": 25000.0, "uiAmountString": "25000" },
+    { "address": "TokenAcctWhale09111111111111111111111111111", "amount": "10000", "decimals": 0, "uiAmount": 10000.0, "uiAmountString": "10000" },
+    { "address": "TokenAcctWhale10111111111111111111111111111", "amount": "10000", "decimals": 0, "uiAmount": 10000.0, "uiAmountString": "10000" },
+    { "address": "TokenAcctWhale11111111111111111111111111111", "amount": "5000",  "decimals": 0, "uiAmount": 5000.0,  "uiAmountString": "5000" },
+    { "address": "TokenAcctWhale12111111111111111111111111111", "amount": "5000",  "decimals": 0, "uiAmount": 5000.0,  "uiAmountString": "5000" },
+    { "address": "TokenAcctWhale13111111111111111111111111111", "amount": "5000",  "decimals": 0, "uiAmount": 5000.0,  "uiAmountString": "5000" },
+    { "address": "TokenAcctWhale14111111111111111111111111111", "amount": "5000",  "decimals": 0, "uiAmount": 5000.0,  "uiAmountString": "5000" },
+    { "address": "TokenAcctWhale15111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" },
+    { "address": "TokenAcctWhale16111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" },
+    { "address": "TokenAcctWhale17111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" },
+    { "address": "TokenAcctWhale18111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" },
+    { "address": "TokenAcctWhale19111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" },
+    { "address": "TokenAcctWhale20111111111111111111111111111", "amount": "3000",  "decimals": 0, "uiAmount": 3000.0,  "uiAmountString": "3000" }
+  ]
+}
